@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <name>PI_Payment</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension adds a new payment method. </summary>
+    <description>IF you want to add your own custom payment method then this extension will help you to add your own payment method without changing any core files .&#xD;
+This extension is very helpful for developers and merchants.</description>
+    <notes>This is a stable version</notes>
+    <authors><author><name>pureimagination</name><user>pureimagination</user><email>johncarter15oct@gmail.com</email></author></authors>
+    <date>2014-11-23</date>
+    <time>06:15:59</time>
+    <contents><target name="magecommunity"><dir name="PI"><dir name="Pay"><dir name="Helper"><file name="Data.php" hash="8968796e294ebb2a79d22b15eeeb1801"/></dir><dir name="Model"><file name="Pay.php" hash="3ef5e877ec2741cec0f16679990d901a"/></dir><dir name="etc"><file name="config.xml" hash="4b0ff00fbda169667cf575d9c2a39cc6"/><file name="system.xml" hash="664fc486ae73c651236c7b3fee8f96c3"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="PI_Pay.xml" hash="829a3a12b69d9c3da8b1068a0d9bf352"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
