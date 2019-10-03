@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/PI_Payment",
+    "name": "OpenMageModuleFostering\/PI_Payment",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "This extension adds a new payment method. ",
     "authors": [
-    {
-        "name": "pureimagination",
-        "email": "johncarter15oct@gmail.com"
-    }
-],
+        {
+            "name": "pureimagination",
+            "email": "johncarter15oct@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
