@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/PI_Payment",
+    "name": "openmage-module-fostering\/pi_payment",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension adds a new payment method. ",
     "authors": [
